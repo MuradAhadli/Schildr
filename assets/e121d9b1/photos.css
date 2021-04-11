@@ -1,0 +1,14 @@
+#photo-upload {
+    margin: 20px 0;
+}
+.photo-description{height: 65px !important; margin-bottom: 5px;}
+
+#uploading-text{display: none;}
+
+.photo-thumb {
+    max-width: 100%;
+}
+
+#video-upload{
+    margin: 20px 0px;
+}

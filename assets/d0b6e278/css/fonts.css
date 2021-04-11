@@ -1,0 +1,82 @@
+/* Fonts registered Area */
+
+/*DIN-Regular*/
+@font-face {
+    font-family: 'DIN-Regular';
+    src: url('../fonts/din-regular/DIN-Regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/din-regular/DIN-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/din-regular/DIN-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/din-regular/DIN-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'DIN-RegularAlternate';
+    src: url('../fonts/DIN-RegularAlternate/DIN-RegularAlternate.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/DIN-RegularAlternate/DIN-RegularAlternate.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/DIN-RegularAlternate/DIN-RegularAlternate.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/DIN-RegularAlternate/DIN-RegularAlternate.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'DIN-BoldAlternate';
+    src: url('../fonts/DIN-BoldAlternate/DIN-BoldAlternate.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/DIN-BoldAlternate/DIN-BoldAlternate.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/DIN-BoldAlternate/DIN-BoldAlternate.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/DIN-BoldAlternate/DIN-BoldAlternate.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'DINCondensed-Bold';
+    src: url('../fonts/DINCondensed-Bold/DINCondensed-Bold.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/DINCondensed-Bold/DINCondensed-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/DINCondensed-Bold/DINCondensed-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/DINCondensed-Bold/DINCondensed-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+/*AvenirNextLTPro*/
+@font-face {
+    font-family: 'AvenirNextLTPro-Regular';
+    src: url('../fonts/AvenirNextLTPro-Regular/AvenirNextLTPro-Regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AvenirNextLTPro-Regular/AvenirNextLTPro-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/AvenirNextLTPro-Regular/AvenirNextLTPro-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AvenirNextLTPro-Regular/AvenirNextLTPro-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'AvenirNextLTPro-Demi';
+    src: url('../fonts/AvenirNextLTPro-Demi/AvenirNextLTPro-Demi.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AvenirNextLTPro-Demi/AvenirNextLTPro-Demi.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/AvenirNextLTPro-Demi/AvenirNextLTPro-Demi.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AvenirNextLTPro-Demi/AvenirNextLTPro-Demi.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'AvenirNextCyr-Medium';
+    src: url('../fonts/AvenirNextCyr-Medium/AvenirNextCyr-Medium.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AvenirNextCyr-Medium/AvenirNextCyr-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/AvenirNextCyr-Medium/AvenirNextCyr-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AvenirNextCyr-Medium/AvenirNextCyr-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+
+/*HelveticaNeue-Medium*/
+@font-face {
+    font-family: 'HelveticaNeue-Medium';
+    src: url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+
+/*RobotoCondensed-Bold */
+@font-face {
+    font-family: 'RobotoCondensed-Bold';
+    src: url('../fonts/Roboto/Bold/RobotoCondensed-Bold.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/Roboto/Bold/RobotoCondensed-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/Roboto/Bold/RobotoCondensed-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Roboto/Bold/RobotoCondensed-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+/* Fonts registered Are end */

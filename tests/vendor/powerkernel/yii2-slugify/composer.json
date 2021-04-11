@@ -1,0 +1,22 @@
+{
+    "name": "powerkernel/yii2-slugify",
+    "description": "Slugify extension for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","slugify"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Harry Tang",
+            "email": "harry@powerkernel.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "bower-asset/jquery-slugify": "~1.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "powerkernel\\slugify\\": ""
+        }
+    }
+}
